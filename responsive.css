@@ -1,0 +1,146 @@
+@media (max-width:925px){
+    .header h2 {
+        width: 85%;
+        float: left;
+        color: white;
+        text-transform: uppercase;
+    }
+    .header ul {
+        left: -9%;
+    }
+    .banner {
+        height: 266px;
+        width: 86%;
+    }
+    .banner h1 {
+        padding-top: 56px;
+        text-transform: uppercase;
+        color: #ebfaf7;
+        font-size: 46px;
+    }
+    .service {
+        width: 83%;
+    }
+    .service h3 {
+        padding-top: 67px;
+    }
+    .servise1 {
+        width: 37%;
+        padding-top: 22px;
+        padding-bottom: 71px;
+    }
+    .about h3 {
+        padding-top: 35px;
+        width: 88%;
+    }
+    .about p {
+        width: 90%;
+    }
+    .picture {
+        width: 81%;
+        float: left;
+    }
+    .write {
+        width: 100%;
+        float: right;
+        padding-right: 99px;
+    }
+    .contact {
+        height: 532px;
+        width: 83%;
+    }
+    .contact1 {
+        width: 33%;
+        display: inline-block;
+        padding-top: 38px;
+    }
+    .icon {
+        width: 84%;
+    }
+}
+@media (max-width:600px){
+    .header h2 {
+        width: 56%;
+    }
+    .header ul {
+        left: -52%;
+        width: 33%;
+        padding-top: 3%;
+    }
+    .banner {
+        width: 55%;
+        height: 193px;
+    }
+    .banner h1 {
+       
+        font-size: 25px;
+    }
+    .banner p {
+        font-size: 12px;
+    }
+    .banner a {
+        margin-top: 2px;
+        font-size: 10px;
+    }
+    .service {
+        width: 55%;
+        height: auto;
+    }
+    .service p {
+        font-size: 14px;
+    }
+    .servise1 {
+        width: 50%;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .about {
+        width: 61%;
+        height: 736px;
+    }
+    .about h3 {
+        padding-top: 10px;
+    }
+    .about p {
+        font-size: 14px;
+    }
+    .picture {
+        width: 89%;
+    }
+    .picture img {
+        width: 491px;
+        height: 231px;
+        margin-top: 12px;
+    }
+    .write {
+        width: 97%;
+    }
+    .contact {
+        height: 349px;
+        width: 55%;
+    }
+    .contact h3 {
+        padding-top: 12px;
+    }
+    .contact p {
+        font-size: 10px;
+    }
+    .contact1 {
+        width: 59%;
+        display: inline-block;
+        padding-top: 0px;
+    }
+    .icon {
+        width: 55%;
+    }
+    dl, ol, ul {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .foter {
+        padding: 2px;
+    }
+    .foter p{
+     font-size: 13px;
+    }
+}
